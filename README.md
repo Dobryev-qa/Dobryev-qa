@@ -33,9 +33,9 @@ Here, I share my web and mobile testing portfolio, created through courses and p
 
 ## Test Artifacts
 
-- [Webshop Testing](https://github.com/Dobryev-qa/QAPortfolio/tree/main/Web_testing) - Test Plan, Check list, Test Case, Defect report
-- [API Testing](https://github.com/Dobryev-qa/QAPortfolio/tree/main/API_testing) - Postman Collection, Test Case.
-- [MySQL](https://github.com/Dobryev-qa/QAPortfolio/tree/main/SQL) - Queries to the database.
+- [Webshop Testing](https://github.com/Dobryev-qa/Web_testing) - Test Plan, Check list, Test Case, Defect report
+- [API Testing](https://github.com/Dobryev-qa/API_testing) - Postman Collection, Test Case.
+- [MySQL](https://github.com/Dobryev-qa/SQL) - Queries to the database.
 
 
 <p align="center">
