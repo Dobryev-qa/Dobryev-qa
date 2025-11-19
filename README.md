@@ -1,6 +1,5 @@
-# QAPortfolio | Dobryev Dmytro
 # 👋 Let Me Tell You About Myself
----
+
 
 Hi! I’m Dobryev Dmytro, a junior QA engineer.
 I’ve completed several online courses in software testing and continue to explore new tools.
@@ -10,7 +9,6 @@ You are welcome to check out my resume.
 Here, I share my web and mobile testing portfolio, created through courses and personal projects. You’re welcome to check out my resume.
 
 
----
 
 ## Some Tools I Use
 
@@ -32,7 +30,6 @@ Here, I share my web and mobile testing portfolio, created through courses and p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
 </div>
 
----
 
 ## Test Artifacts
 
@@ -40,7 +37,6 @@ Here, I share my web and mobile testing portfolio, created through courses and p
 - [API Testing](https://github.com/Dobryev-qa/QAPortfolio/tree/main/API_testing) - Postman Collection, Test Case.
 - [MySQL](https://github.com/Dobryev-qa/QAPortfolio/tree/main/SQL) - Queries to the database.
 
----
 
 <p align="center">
 📫 Let’s connect and collaborate!
