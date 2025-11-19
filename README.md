@@ -4,7 +4,7 @@
 Hi! I’m Dobryev Dmytro, a junior QA engineer.
 I’ve completed several online courses in software testing and continue to explore new tools.
 I’m looking for a position where I can apply my knowledge in practice and keep developing my skills.
-You are welcome to check out my resume.
+You are welcome to check out my [resume](https://drive.google.com/file/d/1gjymxm77Ydx4eNCab9_wNFxenYGysEpH/view?usp=share_link).
 
 Here, I share my web and mobile testing portfolio, created through courses and personal projects. You’re welcome to check out my resume.
 
