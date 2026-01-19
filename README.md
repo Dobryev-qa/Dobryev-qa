@@ -1,22 +1,29 @@
-# 👋 Trainee Manual QA Engineer | Mobile (iOS) & Web
+# 👋 Manual QA Engineer | Mobile (iOS) & Web
 
+Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and mobile (iOS)** applications.
 
-Hi! I’m Dobryev Dmytro, Trainee Manual QA Engineer focused on manual testing of mobile and web applications.
+This GitHub profile contains my QA practice and test documentation created during testing of demo and pet projects.  
+Here you can find examples of test planning, test design, test cases, checklists, and bug reports.
 
-This GitHub profile contains my QA practice and test documentation created during
-testing of demo and pet projects.
+---
 
-Skills:
-- Manual testing fundamentals
-- Test cases, checklists, bug reports
-- Test design techniques (EP, BVA, Decision Tables, State Transition, Pairwise)
+## Skills
+
+- Manual functional testing
+- Test documentation (test cases, checklists, bug reports)
+- Test design techniques:
+  - Equivalence Partitioning (EP)
+  - Boundary Value Analysis (BVA)
+  - Decision Tables
+  - State Transition
+  - Pairwise testing
 - REST API testing (Postman)
-- Basic SQL
-- Mobile testing basics (iOS)
+- Basic SQL queries
+- Mobile testing fundamentals (iOS)
 
+---
 
-
-## Some Tools I Use
+## Tools I Use
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" alt="Jira" title="Jira" />
@@ -36,13 +43,20 @@ Skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
 </div>
 
+---
 
 ## Test Artifacts
 
-- [Webshop Testing](https://github.com/Dobryev-qa/Web_testing) - Test Plan, Check list, Test Case, Defect report
-- [API Testing](https://github.com/Dobryev-qa/API_testing) - Postman Collection, Test Case.
-- [MySQL](https://github.com/Dobryev-qa/SQL) - Queries to the database.
+- [WebShop Testing](https://github.com/Dobryev-qa/Web_testing)  
+  Manual testing of a web-based e-commerce application: Test Plan, Checklists, Test Cases, Bug Reports.
 
+- [API Testing](https://github.com/Dobryev-qa/API_testing)  
+  REST API testing using Postman collections and test cases.
+
+- [SQL Practice](https://github.com/Dobryev-qa/SQL)  
+  Basic SQL queries for data validation and testing purposes.
+
+---
 
 <p align="center">
 📫 Let’s connect and collaborate!
