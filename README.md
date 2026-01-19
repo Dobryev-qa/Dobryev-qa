@@ -1,12 +1,18 @@
-# 👋 Let Me Tell You About Myself
+# 👋 Trainee Manual QA Engineer | Mobile (iOS) & Web
 
 
-Hi! I’m Dobryev Dmytro, a junior QA engineer.
-I’ve completed several online courses in software testing and continue to explore new tools.
-I’m looking for a position where I can apply my knowledge in practice and keep developing my skills.
-You are welcome to check out my [resume](https://drive.google.com/file/d/1gjymxm77Ydx4eNCab9_wNFxenYGysEpH/view?usp=share_link).
+Hi! I’m Dobryev Dmytro, Trainee Manual QA Engineer focused on manual testing of mobile and web applications.
 
-Here, I share my web and mobile testing portfolio, created through courses and personal projects. You’re welcome to check out my resume.
+This GitHub profile contains my QA practice and test documentation created during
+testing of demo and pet projects.
+
+Skills:
+- Manual testing fundamentals
+- Test cases, checklists, bug reports
+- Test design techniques (EP, BVA, Decision Tables, State Transition, Pairwise)
+- REST API testing (Postman)
+- Basic SQL
+- Mobile testing basics (iOS)
 
 
 
