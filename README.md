@@ -4,7 +4,7 @@ Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and 
 
 This GitHub profile contains my QA practice and test documentation created during testing of demo and pet projects.  
 Here you can find examples of test planning, user story, test design, test cases, checklists, and bug reports.
-
+ 
 ---
 
 ## Skills
@@ -83,7 +83,14 @@ Here you can find examples of test planning, user story, test design, test cases
   - Bug Reports
 
 ---
-
+## Certifications
+- Certificate Software testing from scratch. Theory + Practice
+- Understanding Manual Testing
+- API Testing Foundations
+- Get the most out of Jira Learning Path
+- Fundamentals of Testing with TestRail
+- EF SET English Certificate 52/100 (B2 Upper Intermediate)
+  
 <p align="center">
 📫 Let’s connect and collaborate!
 </p>
