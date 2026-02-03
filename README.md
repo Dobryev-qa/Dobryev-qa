@@ -72,7 +72,7 @@ Here you can find examples of test planning, user story, test design, test cases
 - [**SQL Practice**](https://github.com/Dobryev-qa/SQL)  
   Basic SQL queries for data validation and testing purposes.
 
-- [**Mobile Testing - iOS**](https://github.com/Dobryev-qa/Mobile/tree/main)
+- [**Mobile Testing - iOS**](https://github.com/Dobryev-qa/Mobile/tree/main)  <br>
   iOS mobile testing practice projects.
   - User Stories
   - Acceptance Criteria
