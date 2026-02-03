@@ -5,8 +5,6 @@ Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and 
 This GitHub profile contains my QA practice and test documentation created during testing of demo and pet projects.  
 Here you can find examples of test planning, user story, test design, test cases, checklists, and bug reports.
 
-**Languages:** Russian, Ukrainian (native); English (B2)
-
 ---
 
 ## Skills
@@ -25,6 +23,10 @@ Here you can find examples of test planning, user story, test design, test cases
    - Simulator testing
   - Real device testing
   - Xcode logs
+
+
+**Languages:** Russian, Ukrainian (native); English (B2)
+
 
 ---
 
