@@ -5,6 +5,9 @@ Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and 
 This GitHub profile contains my QA practice and test documentation created during testing of demo and pet projects.  
 Here you can find examples of test planning, user story, test design, test cases, checklists, and bug reports.
 
+In addition, I explore different ***AI tools and IDEs*** to better understand product logic, user flows, and system behavior. This helps me improve practical QA thinking during development and learn how AI can support testing, test documentation, and overall QA processes.
+
+
 ---
 
 ## Skills
@@ -85,6 +88,41 @@ Here you can find examples of test planning, user story, test design, test cases
   - Test Cases
   - Exploratory Testing
   - Bug Reports
+---
+## VibeCode
+
+A portfolio of AI-assisted MVP projects focused on practical product development and QA-oriented thinking.
+
+This repository demonstrates how I build and test applications using modern AI tools across different platforms.
+
+#### Focus
+
+- AI-assisted development (IDE + AI agents)
+- MVP building and iteration
+- Cross-platform app testing (mobile, web, extensions)
+- QA mindset integrated into development
+
+#### Selected Projects
+
+[***Homebody Challenge App***](https://github.com/Dobryev-qa/Homebody_challange_app_MVP) (Flutter, Dart) <br>
+Mobile MVP with challenges, tracking, notifications.<br>
+AI tools: Windsurf, SWE Agent, Claude  
+
+
+ [***Maze 100***](https://github.com/Dobryev-qa/mobgame_Maze100) (Swift, SwiftUI, SpriteKit) <br>
+iOS puzzle game with 100 levels.<br>
+AI tools: Antigravity, Gemini 
+
+
+ [***BrainFlow***](https://github.com/Dobryev-qa/BrainFlow) (Browser Extension, JS) <br>
+Focus timer productivity extension.<br>
+AI tools: VSCode + Copilot  
+
+
+ [***LabLens***](https://github.com/Dobryev-qa/LabLens) (Swift + Python backend) <br>
+AI-powered iOS app for lab report OCR and analysis.<br>
+AI tools: Codex, GPT 
+
 
 ---
 ## Certifications
