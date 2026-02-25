@@ -1,4 +1,4 @@
-#  Manual QA Engineer | Mobile (iOS) & Web
+#  Manual QA Engineer | Mobile & Web
 
 Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and mobile** applications.
 
@@ -22,7 +22,7 @@ In addition, I explore different ***AI tools and IDEs*** to better understand pr
   - Pairwise testing
 - REST API testing (Postman)
 - Basic SQL queries
-- Mobile testing fundamentals (iOS)
+- Mobile testing fundamentals 
    - Simulator testing
   - Real device testing
   - Xcode logs
