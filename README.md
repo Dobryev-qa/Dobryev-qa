@@ -1,6 +1,6 @@
 #  Manual QA Engineer | Mobile (iOS) & Web
 
-Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and mobile (iOS)** applications.
+Hi! I’m **Dobryev Dmytro**, a Manual QA Engineer focused on testing **web and mobile** applications.
 
 This GitHub profile contains my QA practice and test documentation created during testing of demo and pet projects.  
 Here you can find examples of test planning, user story, test design, test cases, checklists, and bug reports.
