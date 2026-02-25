@@ -97,10 +97,10 @@ This repository demonstrates how I build and test applications using modern AI t
 
 #### Focus
 
-- AI-assisted development (IDE + AI agents)
-- MVP building and iteration
-- Cross-platform app testing (mobile, web, extensions)
-- QA mindset integrated into development
+- Hands-on experience with different IDEs and AI coding agents
+- Learning how different AI tools perform on real product tasks
+- Building and testing apps across mobile, game, browser extension, and AI-assisted workflows
+- Improving practical QA thinking during development (not only after coding)
 
 #### Selected Projects
 
