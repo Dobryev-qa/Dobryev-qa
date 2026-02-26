@@ -105,23 +105,27 @@ This repository demonstrates how I build and test applications using modern AI t
 #### Selected Projects
 
 - [***Homebody Challenge App***](https://github.com/Dobryev-qa/Homebody_challange_app_MVP) (Flutter, Dart) <br>
-- Mobile MVP with challenges, tracking, notifications.<br>
-- AI tools: Windsurf, SWE Agent, Claude  
+
+  - Mobile MVP with challenges, tracking, notifications.<br>
+  - AI tools: Windsurf, SWE Agent, Claude  
 
 
 - [***Maze 100***](https://github.com/Dobryev-qa/mobgame_Maze100) (Swift, SwiftUI, SpriteKit) <br>
-- iOS puzzle game with 100 levels.<br>
-- AI tools: Antigravity, Gemini 
+
+  - iOS puzzle game with 100 levels.<br>
+  - AI tools: Antigravity, Gemini 
 
 
 - [***BrainFlow***](https://github.com/Dobryev-qa/BrainFlow) (Browser Extension, JS) <br>
-- Focus timer productivity extension.<br>
-- AI tools: VSCode + Copilot  
+
+  - Focus timer productivity extension.<br>
+  - AI tools: VSCode + Copilot  
 
 
 - [***LabLens***](https://github.com/Dobryev-qa/LabLens) (Swift + Python backend) <br>
-- AI-powered iOS app for lab report OCR and analysis.<br>
-- AI tools: Codex, GPT 
+
+   - AI-powered iOS app for lab report OCR and analysis.<br>
+   - AI tools: Codex, GPT 
 
 
 ---
